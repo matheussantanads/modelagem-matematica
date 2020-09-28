@@ -1,4 +1,4 @@
-# [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2000px-Flag_of_Brazil.svg.png" height="30">](https://github.com/arretado/projetos-da-universidade/tree/master/modelagem%20matem%C3%A1tica/Crescimento%20Populacional%20(EDO)#crescimento-populacional-equa%C3%A7%C3%A3o-diferencial-ordin%C3%A1ria) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/2000px-Flag_of_the_United_States.svg.png" height="30">](https://github.com/arretado/projetos-da-universidade/tree/master/modelagem%20matem%C3%A1tica/Crescimento%20Populacional%20(EDO)#population-growth-ordinary-differential-equation)
+# [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2000px-Flag_of_Brazil.svg.png" height="30">](https://github.com/matheussantanads/modelagem-matematica/tree/master/Crescimento%20Populacional%20(EDO)#crescimento-populacional-equa%C3%A7%C3%A3o-diferencial-ordin%C3%A1ria) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/2000px-Flag_of_the_United_States.svg.png" height="30">](https://github.com/matheussantanads/modelagem-matematica/tree/master/Crescimento%20Populacional%20(EDO)#population-growth-ordinary-differential-equation)
 
 # Crescimento Populacional (Equação Diferencial Ordinária)
 
@@ -98,8 +98,8 @@ Parâmetros para o modelo de Verhulst e Gompertz
 ## Algoritmo
 
 O algoritmo implementado consiste em: dado um arquivo no formato .txt com os dados referentes ao tempo e população (primeira e segunda coluna respectivamente),busca-se otimizar os valores dos parâmetros do modelo escolhido para se obter o melhor ajuste da curva aos dados experimentais. Tendo os parâmetros ajustados resolve-se a EDO com estes parâmetros, ao resolver a EDO obtemos a curva que melhor se ajusta aos dados e com isso faz-se o plot da curva e dos dados para visualização.
-- [Ver implementação para o modelo de Verhulst (Clique aqui ou acesse "modelo_verhulst.py")](https://github.com/arretado/projetos-da-universidade/blob/master/modelagem%20matem%C3%A1tica/Crescimento%20Populacional%20(EDO)/modelo_verhulst.py)
-- [Ver implementação para o modelo de Gompertz (Clique aqui ou acesse "modelo_gompertz.py")](https://github.com/arretado/projetos-da-universidade/blob/master/modelagem%20matem%C3%A1tica/Crescimento%20Populacional%20(EDO)/modelo_gompertz.py)
+- [Ver implementação para o modelo de Verhulst (Clique aqui ou acesse "modelo_verhulst.py")](https://github.com/matheussantanads/modelagem-matematica/blob/master/Crescimento%20Populacional%20(EDO)/modelo_verhulst.py)
+- [Ver implementação para o modelo de Gompertz (Clique aqui ou acesse "modelo_gompertz.py")](https://github.com/matheussantanads/modelagem-matematica/blob/master/Crescimento%20Populacional%20(EDO)/modelo_gompertz.py)
 
 ### Resultados/Results
 
@@ -209,5 +209,5 @@ Parameters for Verhulst and Gompertz model
 ## Algorithm
 
 The implemented algorithm consists of: given a file in .txt format with time and population data (first and second column respectively), we seek to optimize the parameter values of the chosen model to obtain the best fit of the curve to the data. experimental. Having the adjusted parameters solves the ODE with these parameters, solving the ODE we get the curve that best fits the data and with it is plotted the curve and data for visualization.
-- [View implementation for Verhulst model (Click here or go to "modelo_verhulst.py")](https://github.com/arretado/projetos-da-universidade/blob/master/modelagem%20matem%C3%A1tica/Crescimento%20Populacional%20(EDO)/modelo_verhulst.py)
-- [View implementation for Gompertz model (Click here or go to "modelo_gompertz.py")](https://github.com/arretado/projetos-da-universidade/blob/master/modelagem%20matem%C3%A1tica/Crescimento%20Populacional%20(EDO)/modelo_gompertz.py)
+- [View implementation for Verhulst model (Click here or go to "modelo_verhulst.py")](https://github.com/matheussantanads/modelagem-matematica/blob/master/Crescimento%20Populacional%20(EDO)/modelo_verhulst.py)
+- [View implementation for Gompertz model (Click here or go to "modelo_gompertz.py")](https://github.com/matheussantanads/modelagem-matematica/blob/master/Crescimento%20Populacional%20(EDO)/modelo_gompertz.py)
