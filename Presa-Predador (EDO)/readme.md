@@ -1,4 +1,4 @@
-# [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2000px-Flag_of_Brazil.svg.png" height="30">](https://github.com/arretado/projetos-da-universidade/tree/master/modelagem%20matem%C3%A1tica/Presa-Predador%20(EDO)#presa-predador-equa%C3%A7%C3%A3o-diferencial-ordin%C3%A1ria) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/2000px-Flag_of_the_United_States.svg.png" height="30">](https://github.com/arretado/projetos-da-universidade/tree/master/modelagem%20matem%C3%A1tica/Presa-Predador%20(EDO)#predator-prey-ordinary-differential-equation) 
+# [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2000px-Flag_of_Brazil.svg.png" height="30">](https://github.com/matheussantanads/modelagem-matematica/tree/master/Presa-Predador%20(EDO)#presa-predador-equa%C3%A7%C3%A3o-diferencial-ordin%C3%A1ria) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/2000px-Flag_of_the_United_States.svg.png" height="30">](https://github.com/matheussantanads/modelagem-matematica/tree/master/Presa-Predador%20(EDO)#predator-prey-ordinary-differential-equation) 
 
 # Presa-Predador (Equação diferencial Ordinária)
 
@@ -59,8 +59,8 @@ Parâmetros para o modelo de Gause
 
 ## Algoritmo
 O algoritmo implementado consiste em: dado um arquivo no formato .txt com os dados referentes ao tempo, população de predadores e população de presas (primeira, segunda e terceira coluna respectivamente), busca-se otimizar os valores dos parâmetros do modelo escolhido para se obter o melhor ajuste da curva aos dados experimentais. Tendo os parâmetros ajustados resolve-se a EDO com estes parâmetros, ao resolver a EDO obtemos a curva que melhor se ajusta aos dados e com isso faz-se o plot da curva e dos dados para visualização.
-- [Ver implementação para o modelo de Lotka-Volterra (Clique aqui ou acesse "modelo_lotkaVolterra.py")](https://github.com/arretado/projetos-da-universidade/tree/master/modelagem%20matem%C3%A1tica/Presa-Predador%20(EDO)/modelo_lotkaVolterra.py)
-- [Ver implementação para o modelo de Gause (Clique aqui ou acesse "modelo_gause.py")](https://github.com/arretado/projetos-da-universidade/tree/master/modelagem%20matem%C3%A1tica/Presa-Predador%20(EDO)/modelo_gause.py)
+- [Ver implementação para o modelo de Lotka-Volterra (Clique aqui ou acesse "modelo_lotkaVolterra.py")](https://github.com/matheussantanads/modelagem-matematica/tree/master/Presa-Predador%20(EDO)/modelo_lotkaVolterra.py)
+- [Ver implementação para o modelo de Gause (Clique aqui ou acesse "modelo_gause.py")](https://github.com/matheussantanads/modelagem-matematica/tree/master/Presa-Predador%20(EDO)/modelo_gause.py)
 
 
 ### Resultados/Results
@@ -134,5 +134,5 @@ Parameters for the Gause model
 ## Algorithm
 
 The implemented algorithm consists of: given a file in .txt format with data related to time, predator population and prey population (first, second and third column respectively), we seek to optimize the parameter values of the model chosen to be used. get the best fit of the curve to the experimental data. Having the adjusted parameters solves the ODE with these parameters, solving the ODE we get the curve that best fits the data and with it is plotted the curve and data for visualization.
-- [View implementation for Lotka-Volterra model (Click here or go to "modelo_lotkaVolterra.py")](https://github.com/arretado/projetos-da-universidade/tree/master/modelagem%20matem%C3%A1tica/Presa-Predador%20(EDO)/modelo_lotkaVolterra.py)
-- [View implementation for Gause model (Click here or go to "modelo_gause.py")](https://github.com/arretado/projetos-da-universidade/tree/master/modelagem%20matem%C3%A1tica/Presa-Predador%20(EDO)/modelo_gause.py)
+- [View implementation for Lotka-Volterra model (Click here or go to "modelo_lotkaVolterra.py")](https://github.com/matheussantanads/modelagem-matematica/tree/master/Presa-Predador%20(EDO)/modelo_lotkaVolterra.py)
+- [View implementation for Gause model (Click here or go to "modelo_gause.py")](https://github.com/matheussantanads/modelagem-matematica/tree/master/Presa-Predador%20(EDO)/modelo_gause.py)
