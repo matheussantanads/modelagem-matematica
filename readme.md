@@ -1,4 +1,4 @@
-# [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2000px-Flag_of_Brazil.svg.png" height="30">](https://github.com/matheussantanads/modelagem-matematica/tree/master/modelagem%20matem%C3%A1tica#modelagem-matem%C3%A1tica) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/2000px-Flag_of_the_United_States.svg.png" height="30">](https://github.com/matheussantanads/modelagem-matematica/tree/master/modelagem%20matem%C3%A1tica#mathematical-modeling) 
+# [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2000px-Flag_of_Brazil.svg.png" height="30">](https://github.com/matheussantanads/modelagem-matematica#modelagem-matem%C3%A1tica) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/2000px-Flag_of_the_United_States.svg.png" height="30">](https://github.com/matheussantanads/modelagem-matematica#mathematical-modeling) 
 
 # Modelagem Matemática 
 UFS (Universidade Federal de Sergipe) turma 2019.1
